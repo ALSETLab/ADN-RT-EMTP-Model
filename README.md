@@ -21,7 +21,7 @@ You will need access to an Opal-RT eMegaSim simulator or equivalent, and associa
 If you use our model in your work or research, all we ask from you in exchange is that you **cite our publications above**! If you only have space for one citation, please cite Ref. 1.
 
 ### Contributing
-If you make modifications to the model that improve it or add functionality, you are welcome to submit a "pull request". When you do this, please add a new folder with your files, and use versioning (e.g. start from V10.0).
+If you make modifications to the model that improve it or add functionality, you are welcome to submit a "pull request". When you do this, please add a new folder with your files, and use versioning (e.g. VXXX.0.0), please start with V010.0.0).
 
 ### License
 The software is licensed under GPLv3. If you are unfamiliar with the GPLv3 terms and conditions, please see this [link](https://www.gnu.org/licenses/quick-guide-gplv3.en.html).
