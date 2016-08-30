@@ -43,7 +43,11 @@ In order to comply with real-time simulation constraints, the model was implemen
 
 ### References
 [1] EU-FP7 IDE4L project official website: [link](http://www.ide4l.eu)
+
 [2] H. Hooshyar, F. Mahmood, L. Vanfretti, M. Baudette, “Specification, implementation, and hardware-in-the-loop real-time simulation of an active distribution grid,” Elsevier Sustainable Energy, Grids and Networks (SEGAN), vol. 3, pp. 36-51, September 2015. [http://dx.doi.org/10.1016/j.segan.2015.06.002](http://dx.doi.org/10.1016/j.segan.2015.06.002)
+
 [3] R. Billinton, S. Kumar, N. Chowdhury, K. Chu, K. Debnath, L. Goel, E. Khan, P. Kos, G. Nourbakhsh, J. Oteng-Adjei, “A reliability test system for educational purposes-basic data”, IEEE Transactions on Power Systems, vol. 4, no. 3, pp. 1238-1244, Aug. 1989.
+
 [4] Available on-line at: [link](http://www.ewh.ieee.org/soc/pes/dsacom/testfeeders/index.html)
+
 [5] H. Hooshyar, L. Vanfretti, C. Dufour, “Delay-free parallelization for real-time simulation of a large active distribution grid model”, in Proc. IEEE IECON, Florence, Italy, October 23-27, 2016.
