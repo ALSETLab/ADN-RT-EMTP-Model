@@ -1,6 +1,6 @@
 # FP7-IDE4L-KTHSmarTSLab-ADN-RTModel
 This project contains an Active Distribution Network Power System Model developed in the FP7 IDE4L Project by KTH SmarTS Lab.
-The model was developed for use with the Opal-RT eMegaSim power system simulator.
+The model was developed for use with the [Opal-RT eMegaSim](http://www.opal-rt.com/product/emegasim-powergrid-real-time-digital-hardware-in-the-loop-simulator) real-time power system simulator.
 
 ## Model Versions
 
