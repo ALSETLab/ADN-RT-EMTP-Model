@@ -18,6 +18,7 @@ Note: A pre-print copy of this paper is available in the V6 folder, however, not
 You will need access to an Opal-RT eMegaSim simulator or equivalent, and associated software. The models run with the following software versions:
 - V2: Runs under RT-Lab v10.6, ARTEMiS v6.3.3 and MATLAB 2010b
 - V6: Runs under RT-Lab v11, ARTEMiS v7.0.2 and Matlab 2011b 
+
 Please contact Opal-RT support if you have issues with your own software configuration: [link](http://www.opal-rt.com/support/support-request)
 
 ### Using our Models = Citing our Work!
