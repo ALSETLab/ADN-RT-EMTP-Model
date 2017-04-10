@@ -16,10 +16,13 @@ The second version of the model was developed to overcome several of the limitat
 
 Note: A pre-print copy of this paper is available in the V6 folder, however, note that it is not the final version that will appear in the proceedings of the IEEE IECON conference.
 
+A modified version of this model for Matlab 2015aSP1 is also available.
+
 ### Requirements:
 You will need access to an Opal-RT eMegaSim simulator or equivalent, and associated software. The models run with the following software versions:
 - V2: Runs under RT-Lab v10.6, ARTEMiS v6.3.3 and MATLAB 2010b
 - V6: Runs under RT-Lab v11, ARTEMiS v7.0.2 and Matlab 2011b 
+- V6 Matlab 2015aSP1: It requires at least RT-Lab v11.0.8 and ARTEMiS v7.0.4 to run in real-time.
 
 Please contact Opal-RT support if you have issues with your own software configuration: [link](http://www.opal-rt.com/support/support-request)
 
