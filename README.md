@@ -6,23 +6,24 @@ The model was developed for use with the [Opal-RT eMegaSim](http://www.opal-rt.c
 
 ## Model Versions
 
-Two versions of the model are provided in this repository, along with a model description and a self-contained documentation (i.e. help file).
+Several versions of the model are provided in this repository, along with a model description and a self-contained documentation (i.e. help file).
 
 Details of the first version (V2) can be found in the open access publication in the following link:
-- Ref. 1: H. Hooshyar, F. Mahmood, L. Vanfretti, M. Baudette, Specification, implementation, and hardware-in-the-loop real-time simulation of an active distribution grid, Sustainable Energy, Grids and Networks, Volume 3, September 2015, Pages 36-51, ISSN 2352-4677, [http://dx.doi.org/10.1016/j.segan.2015.06.002](http://dx.doi.org/10.1016/j.segan.2015.06.002)
+- Ref. 1: H. Hooshyar, F. Mahmood, L. Vanfretti, M. Baudette, ''Specification, implementation, and hardware-in-the-loop real-time simulation of an active distribution grid,'' Sustainable Energy, Grids and Networks, Volume 3, September 2015, Pages 36-51, ISSN 2352-4677, [http://dx.doi.org/10.1016/j.segan.2015.06.002](http://dx.doi.org/10.1016/j.segan.2015.06.002)
 
 The second version of the model was developed to overcome several of the limitations in accuracy of the "stub-line" modeling used to decouple the model into different cores. Hence, V6 partitions each subsystem into state-space-nodal (SSN) groups so that parallel computations can be carried out with the ARTEMiS-SSN solver. More information about the model can be found on the "ReadMe.pdf" included in the V6 folder, and in the following paper:
-- Ref. 2: H. Hooshyar, L. Vanfretti, C. Dufour, “Delay-free parallelization for real-time simulation of a large active distribution grid model”, in Proc. IEEE IECON, Florence, Italy, October 23-27, 2016.
-
-Note: A pre-print copy of this paper is available in the V6 folder, however, note that it is not the final version that will appear in the proceedings of the IEEE IECON conference.
-
+- Ref. 2: H. Hooshyar, L. Vanfretti, C. Dufour, ''Delay-free parallelization for real-time simulation of a large active distribution grid model'', in Proc. IEEE IECON, Florence, Italy, October 23-27, 2016. [https://doi.org/10.1109/IECON.2016.7793885](https://doi.org/10.1109/IECON.2016.7793885) Note: A pre-print copy of this paper is available in the V6 folder, however, note that it is not the final version that will appear in the proceedings of the IEEE IECON conference.
 A modified version of this model for Matlab 2015aSP1 is also available.
+
+A third version of the model was developed to address some of the differences found when implementing the model using EMTP-RV. More information about the model can be found on the [V6_1_correcctions.pdf](https://github.com/SmarTS-Lab/FP7-IDE4L-KTHSmarTSLab-ADN-RTModel/blob/master/V6p1/V6_1%20corrections.pdf), which address some of the differences reported in the paper:
+- Ref. 3: A. Haddadi, H. Hooshyar, J. Mahseredjian, C. Dufour, and Luigi Vanfretti, A First Step Towards the Implementation and Software-to-Software Validation of an Active Distribution Network Model'', in Proc. International Conference on Power System Transients (IPST), Seoul, Republic of Korea, June 26th-29th, 2017. [Website:](http://www.ipst2017.com/)
 
 ### Requirements:
 You will need access to an Opal-RT eMegaSim simulator or equivalent, and associated software. The models run with the following software versions:
 - V2: Runs under RT-Lab v10.6, ARTEMiS v6.3.3 and MATLAB 2010b
 - V6: Runs under RT-Lab v11, ARTEMiS v7.0.2 and Matlab 2011b 
 - V6 Matlab 2015aSP1: It requires at least RT-Lab v11.0.8 and ARTEMiS v7.0.4 to run in real-time.
+- V6.1 Matlab 2015aSP1: It requires at least RT-Lab v11.0.8 and ARTEMiS v7.0.4 to run in real-time.
 
 Please contact Opal-RT support if you have issues with your own software configuration: [link](http://www.opal-rt.com/support/support-request)
 
