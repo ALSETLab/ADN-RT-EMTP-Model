@@ -1,10 +1,12 @@
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.61183.svg)](http://dx.doi.org/10.5281/zenodo.61183)
-# FP7-IDE4L-KTHSmarTSLab-ADN-RTModel
-This project contains an Active Distribution Network Power System Model originally developed in the FP7 IDE4L Project by KTH SmarTS Lab (Prof. Luigi Vanfretti's research group, now @ALSETLab).
+# ADN-RT-EMTP-Model: Active Distribution Network Model for Real-Time and EMTP-Type Power System Simulations
+This project contains an Active Distribution Network Power System Model originally developed in the FP7 IDE4L Project by KTH SmarTS Lab (Prof. Luigi Vanfretti's research group, now [ALSETLab](https://alsetlab.github.io)).
 
 The model was developed for use with the [Opal-RT eMegaSim](http://www.opal-rt.com/product/emegasim-powergrid-real-time-digital-hardware-in-the-loop-simulator) real-time power system simulator.
 
-The model has been further developed in collaboration with Polytechnique Montréal ([A. Haddadi](https://www.linkedin.com/in/aboutaleb-haddadi-ph-d-a1522236/?ppe=1) and [J. Mahseredjian](http://www.polymtl.ca/recherche/rc/en/professeurs/details.php?NoProf=340)) and Opal-RT ([C.Dufour](https://www.researchgate.net/profile/Christian_Dufour2)); and as a result, [EMTP-RV](http://emtp-software.com) versions of the model are available.
+The model has been further developed in collaboration with Polytechnique Montréal ([A. Haddadi](https://www.linkedin.com/in/aboutaleb-haddadi-ph-d-a1522236/?ppe=1) and [J. Mahseredjian](http://www.polymtl.ca/recherche/rc/en/professeurs/details.php?NoProf=340)) and Opal-RT ([C.Dufour](https://www.researchgate.net/profile/Christian_Dufour2)).
+
+As a result, [EMTP-RV](http://emtp-software.com) versions of the model are available.
 
 ## Model Versions
 ### Real-Time Models (Stub-Line and SSN Solvers)
