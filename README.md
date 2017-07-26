@@ -24,6 +24,8 @@ A third version of the model was developed to address some of the differences fo
 
 ### EMTP-RV Models
 The [EMTP-RV](http://emtp-software.com) versions of the model are reported in the following papers, and are available under the ``./EMTP-RV/`` folder of this repository.
+![emtpmodel](https://github.com/ALSETLab/ADN-RT-EMTP-Model/blob/master/EMTP-RV/Picture1.png "Overall EMTP-RV Model")
+
 
 Pre-prints of the papers and related presentations are available in a ``./EMTP-RV/...version.../doc/`` folder for each model.
 
