@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.61183.svg)](http://dx.doi.org/10.5281/zenodo.61183)
 # ADN-RT-EMTP-Model: Active Distribution Network Model for Real-Time and EMTP-Type Power System Simulations
-This project contains an Active Distribution Network Power System Model originally developed in the FP7 IDE4L Project by KTH SmarTS Lab (Prof. Luigi Vanfretti's research group, now [ALSETLab](https://alsetlab.github.io)).
+This project contains an Active Distribution Network Power System Model originally developed H. Hooshyar and other researchers in Prof. Luigi Vanfretti's research group, [ALSETLab](https://alsetlab.github.io)).
 
 The model was developed for use with the [Opal-RT eMegaSim](http://www.opal-rt.com/product/emegasim-powergrid-real-time-digital-hardware-in-the-loop-simulator) real-time power system simulator.
 
