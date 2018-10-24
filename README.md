@@ -39,6 +39,9 @@ You will need access to an Opal-RT eMegaSim simulator or equivalent, and associa
 - V2: Runs under RT-Lab v10.6, ARTEMiS v6.3.3 and MATLAB 2010b
 - V6: Runs under RT-Lab v11, ARTEMiS v7.0.2 and Matlab 2011b
 - V6.1: It requires at least RT-Lab v11.0.8 and ARTEMiS v7.0.4. It runs with both Matlab 2011b and Matlab 2015aSP1.
+- V6.2: RT-Lab v11.3.1.34, ARTEMiS v7.3.0.1251, MATLAB 2015aSP1.
+
+Future updates will no longer support older versions of MATLAB, currently the only one being supported is MATLAB 2015aSP1.
 
 Please contact Opal-RT support if you have issues with your own software configuration: [link](http://www.opal-rt.com/support/support-request)
 
@@ -78,4 +81,4 @@ In order to comply with real-time simulation constraints, the model was implemen
 
 [4] Available on-line at: [link](http://www.ewh.ieee.org/soc/pes/dsacom/testfeeders/index.html)
 
-[5] H. Hooshyar, L. Vanfretti, C. Dufour, “Delay-free parallelization for real-time simulation of a large active distribution grid model”, in Proc. IEEE IECON, Florence, Italy, October 23-27, 2016.
+[5] H. Hooshyar, L. Vanfretti, C. Dufour, “Delay-free parallelization for real-time simulation of a large active distribution grid model”, in Proc. IEEE IECON, Florence, Italy, October 23-27, 2016. [10.1109/IECON.2016.7793885](https://ieeexplore.ieee.org/document/7793885)
