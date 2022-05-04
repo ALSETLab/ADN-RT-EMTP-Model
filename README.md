@@ -73,7 +73,7 @@ The LV and residential LV sections are based on the IEEE 37 bus test feeder. The
 In order to comply with real-time simulation constraints, the model was implemented in three subsystems each partitioned into SSN groups so that parallel computations can be performed using the ARTEMiS-SSN solver. More details on the real-time simulation setup of the model can be found in [5].
 
 ### References
-[1] EU-FP7 IDE4L project official website: [link](http://www.ide4l.eu)
+[1] EU-FP7 IDE4L project official website: [link](https://cordis.europa.eu/article/id/196576-intelligent-utilisation-of-grid-assets)
 
 [2] H. Hooshyar, F. Mahmood, L. Vanfretti, M. Baudette, “Specification, implementation, and hardware-in-the-loop real-time simulation of an active distribution grid,” Elsevier Sustainable Energy, Grids and Networks (SEGAN), vol. 3, pp. 36-51, September 2015. [http://dx.doi.org/10.1016/j.segan.2015.06.002](http://dx.doi.org/10.1016/j.segan.2015.06.002)
 
